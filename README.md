@@ -1,5 +1,2 @@
 # LuisPrimero
-sadfasdf
-sdfgjisdfgn
-sdfngjkonfsdklg
-gnsdfkgnsdlg
+MAIN
